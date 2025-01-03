@@ -1,0 +1,47 @@
+.dashboard {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+td {
+  font-size: 14px;
+}
+
+td[style] {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+
+.none {
+  background-color: none;
+}
